@@ -1,10 +1,10 @@
 import React from "react";
 import { Text, View } from "react-native";
 
-export default function Layout() {
+export default function Chat() {
   return (
     <View>
-      <Text>RootLayout</Text>
+      <Text>Chat</Text>
     </View>
   );
 }
